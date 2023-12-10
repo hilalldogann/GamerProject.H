@@ -1,0 +1,6 @@
+/Users/hilaldogan/RiderProjects/GamerProject/GamerProject/bin/Debug/GamerProject.exe
+/Users/hilaldogan/RiderProjects/GamerProject/GamerProject/bin/Debug/GamerProject.pdb
+/Users/hilaldogan/RiderProjects/GamerProject/GamerProject/obj/Debug/GamerProject.csproj.AssemblyReference.cache
+/Users/hilaldogan/RiderProjects/GamerProject/GamerProject/obj/Debug/GamerProject.csproj.CoreCompileInputs.cache
+/Users/hilaldogan/RiderProjects/GamerProject/GamerProject/obj/Debug/GamerProject.exe
+/Users/hilaldogan/RiderProjects/GamerProject/GamerProject/obj/Debug/GamerProject.pdb
